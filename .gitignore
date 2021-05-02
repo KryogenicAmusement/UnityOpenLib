@@ -155,3 +155,8 @@ InitTestScene*.unity
 .ionide
 
 # End of https://www.toptal.com/developers/gitignore/api/unity,rider,visualstudiocode
+
+################################################################################
+
+# For the open source library, ignore all JetBrains IDEs stuff
+.idea
